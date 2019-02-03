@@ -1,0 +1,19 @@
+.tituloNoticia{
+	background: #3498db;
+	color: white;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.divCuerpoNoticia .titulo{
+	text-align: center;
+}
+.divCuerpoNoticia{
+	width: 80%;
+	margin: 0 auto;
+}
+.contenedorImagenContenidoCuerpo{
+	text-align: center;
+	margin-top: 3%;
+	margin-bottom:  3%;
+}
+/****************************************/

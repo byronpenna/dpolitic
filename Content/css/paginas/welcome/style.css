@@ -1,0 +1,62 @@
+body{
+	
+}
+
+.divBuscador{
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 3%;
+
+}
+.imgBuscador{
+	width: 	80%;
+	margin: 0 auto;
+}
+.btnBuscador{
+	margin-top: 3%;
+}
+.divBuscador h3{
+
+	font-size: 3em;
+	font-weight: bold;	
+	
+}
+.divContenidoArticulo a{
+	color: black;
+}
+.divContenidoArticulo a:hover{
+	cursor: pointer;
+	text-decoration: none;
+	color: black;
+}
+.articulo h3{
+	font-size: 1.5em;
+
+}
+.articulo img{
+	width: 100%;
+	margin-bottom: 0;
+}
+.contenidoArticulo{
+	text-align: justify;
+	margin-top: 0;
+	padding-left: 4%;
+	padding-right: 5%;
+	padding-top: 4%;
+	padding-bottom: 4%;
+	height: 200px;
+	background: #bdc3c7;
+}
+.footer{
+	margin-top: 3%;
+	text-align: center;
+}
+.tituloH3Articulo{
+	background: #2980b9;
+	height: 70px;
+	padding-top: 2%;
+	color: white;
+	margin-bottom: 0;
+}
+/*********************/
