@@ -1,0 +1,35 @@
+body{
+	background: #FF7F4E;
+}
+h4{
+	font-weight: bold;
+	color:white;
+}
+.contenido{
+	margin-top: 5%;
+}
+.logoPrincipal{
+	width: 20%;
+	margin-top: 10%;
+}
+.contenedorPrincipalLand{
+	width: 80%;
+	margin:0 auto;
+	border: solid white;
+    border-radius: 20px;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    margin-top: 5%;
+
+}
+.textoFoto{
+	color:white;
+}
+.tituloContenedorPrincipal{
+	color: white;
+}
+.imgAsamblea{
+	width: 80%; 
+	margin: 0 auto;
+	margin-bottom: 5%;
+}
